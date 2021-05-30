@@ -78,6 +78,7 @@ outputfp = "my_first_plot.png"
 # Save file as png
 plt.savefig(outputfp)
 
+
 # This test print statement should print the output filename of your figure
 print("Saved my first plot as:", outputfp)
 
