@@ -73,7 +73,7 @@ outputfp = "temp_line_plot.png"
 # Save plot as image
 # YOUR CODE HERE 4
 # Save as PNG file
-plt.savefig(ou)
+plt.savefig(outputfp)
 
 import os
 
